@@ -1,6 +1,6 @@
 # codeigniter-mod
 
-This is my initial setup to start a project with Codeigniter 3.
+This repository contains boilerplate code for a fresh Codeigniter 3 setup with an SEO optimization library. Codeigniter is a PHP framework for building web applications, and this boilerplate code includes a library to help optimize the search engine visibility of your application. The code is easy to set up and customize, making it a great starting point for your Codeigniter project.
 
 **CodeIgniter Version:** 3.1.11
 
